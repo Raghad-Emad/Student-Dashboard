@@ -1,0 +1,9 @@
+{
+  "announcements": [
+    { "id": 1, "title": "Exam Week", "content": "Prepare for next week’s exams." }
+  ],
+  "quizzes": [
+    { "id": 1, "name": "Math Quiz", "totalQuestions": 10 }
+  ]
+}
+ 
